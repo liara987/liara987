@@ -72,8 +72,6 @@
 [![Facebook: liara987](https://img.shields.io/static/v1?label=Facebook&message=Add&color=blue)](https://www.facebook.com/liara.2.0)
 
 <br/>
-<br/>
-<br/>
 
 ## 👋 Bye
 
