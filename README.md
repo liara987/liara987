@@ -33,20 +33,6 @@
 
 - **English learner** 
 
-## 💬 Contact Info 
-
- <img align="left" title="Youtube" alt="Youtube" width="40px" height="" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/256/Youtube-icon.png" />
- 
-[![Youtube: liara987](https://img.shields.io/static/v1?label=Youtube&message=Subscribe&color=red)](https://www.youtube.com/c/LiaraProgramadora?sub_confirmation=1)
-
-<img align="left" title="Linkedin" alt="Linkedin" width="40px" src="https://www.iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" />
-
-[![Linkedin: liara987](https://img.shields.io/static/v1?label=Linkedin&message=Connect&color=informational)](https://www.linkedin.com/in/liara-programadora/)
-
-<img align="left" title="Facebook" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/256px-Facebook_icon.svg.png" />
-
-[![Facebook: liara987](https://img.shields.io/static/v1?label=Facebook&message=Add&color=blue)](https://www.facebook.com/liara.2.0)
-
 ## 🤹 My abilites
 
 <p align="left">
@@ -66,6 +52,24 @@
 
   <img align="left" title="Jest" alt="Jest" width="60px" src="https://jestjs.io/img/jest.png" />
 </p>
+
+<br/>
+<br/>
+<br/>
+
+## 💬 Contact Info 
+
+ <img align="left" title="Youtube" alt="Youtube" width="40px" height="" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/256/Youtube-icon.png" />
+ 
+[![Youtube: liara987](https://img.shields.io/static/v1?label=Youtube&message=Subscribe&color=red)](https://www.youtube.com/c/LiaraProgramadora?sub_confirmation=1)
+
+<img align="left" title="Linkedin" alt="Linkedin" width="40px" src="https://www.iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" />
+
+[![Linkedin: liara987](https://img.shields.io/static/v1?label=Linkedin&message=Connect&color=informational)](https://www.linkedin.com/in/liara-programadora/)
+
+<img align="left" title="Facebook" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/256px-Facebook_icon.svg.png" />
+
+[![Facebook: liara987](https://img.shields.io/static/v1?label=Facebook&message=Add&color=blue)](https://www.facebook.com/liara.2.0)
 
 <br/>
 <br/>
