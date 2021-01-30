@@ -17,7 +17,7 @@
       'Grow my youtube channel', 
       'Learn more programming skills', 
       'Become a senior developer', 
-      'Tralvel the world', 
+      'Travel the world', 
       'and a lot more...'
     ]
   })
