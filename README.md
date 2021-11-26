@@ -20,7 +20,7 @@
 
 ## 😁 About me
 
-- **Software Engeneer Junior at UOL**
+- **Software Engeneer at UOL**
 
 - **Owner of the channel <a href="https://www.youtube.com/c/LiaraProgramadora?sub_confirmation=1">Liara Programadora</a>**
 
