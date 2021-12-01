@@ -32,7 +32,7 @@
     <img title="Angular" alt="Angular" width="73px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
     <img title="React" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     <img title="Typescript" alt="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />    
-    <img title="CSS3" alt="CSS3" width="68px" src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" />
+    <img title="SASS" alt="SASS" width="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
     <img title="HTML5" alt="HTML5" width="90px" src="https://res.cloudinary.com/academind-gmbh/image/upload/f_auto,q_auto/c_limit,dpr_3.0,g_center,w_200/v1/academind.com/site/topics/html" />
     <img title="Jest" alt="Jest" width="60px" src="https://jestjs.io/img/jest.png" />
 </div>
