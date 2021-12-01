@@ -8,7 +8,7 @@
   let liara = {
     job: 'Software Engineer Junior at UOL',
     hobbies: [
-      'Spend time with my family',
+      'Play video games',
       'Laugh and talk',
       'Read webtoons and manga',
       'Watch anime some times',
@@ -29,21 +29,12 @@
 ## 💻 My programming skills
 
 <div>
-  <img title="Javascript" alt="Javascript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  
-   <img title="Nodejs" alt="Nodejs" width="50px" src="https://www.brainfuel.io/images/node-js-new.png" />
-
-  <img title="Typescript" alt="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-  <img title="React and React Native" alt="React and React Native" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-  <img title="Jest" alt="Jest" width="60px" src="https://jestjs.io/img/jest.png" />
-
-   <img title="CSS3" alt="CSS3" width="68px" src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" />
-
-  <img title="Angular" alt="Angular" width="73px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-  <img title="HTML5" alt="HTML5" width="90px" src="https://res.cloudinary.com/academind-gmbh/image/upload/f_auto,q_auto/c_limit,dpr_3.0,g_center,w_200/v1/academind.com/site/topics/html" />
+    <img title="Angular" alt="Angular" width="73px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+    <img title="React" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img title="Typescript" alt="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />    
+    <img title="CSS3" alt="CSS3" width="68px" src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" />
+    <img title="HTML5" alt="HTML5" width="90px" src="https://res.cloudinary.com/academind-gmbh/image/upload/f_auto,q_auto/c_limit,dpr_3.0,g_center,w_200/v1/academind.com/site/topics/html" />
+    <img title="Jest" alt="Jest" width="60px" src="https://jestjs.io/img/jest.png" />
 </div>
 
 ## 💬 Contact Info
@@ -54,12 +45,6 @@
   </a>
   <a href="https://www.linkedin.com/in/liara-programadora">
     <img align="left" title="Linkedin" alt="Linkedin" width="40px" src="https://www.iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" />
-  </a>
-  <a href="https://www.facebook.com/liara.2.0">
-    <img align="left" title="Facebook" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/256px-Facebook_icon.svg.png" />
-  </a>
-  <a href="https://vm.tiktok.com/ZMdnFrYQu/">
-    <img align="left" title="Facebook" alt="TikTok" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/tiktok-3089511-2567363.png" />
   </a>
 </div>
 
