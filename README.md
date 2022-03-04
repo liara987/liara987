@@ -30,9 +30,3 @@
 [![Youtube URL](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/in/liara-programadora)
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/c/LiaraProgramadora?sub_confirmation=1)
 [![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liaraprogramadora/)
-
-## 👋 Bye
-<div align="center">
-
-![GIF Bye](https://pa1.narvii.com/5711/38d079cc1a064ec6b805323df9010a2b9cac9819_hq.gif)
-</div>
