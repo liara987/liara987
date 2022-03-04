@@ -11,10 +11,9 @@
 > **Also, I'm really nerd, love to play games and watch Anime, and I'm a YouTuber, on my channel I like to talk about technology and teach some cool things I learn.** 😊
  
 ## 🚀 Projects I'm proud of
-
-> - [Crypto Index](https://github.com/liara987/desafio-trybe): This one is a small project but it was the first time I created something by myself, it was really challenging at the time, and I was really happy that I did.
-> 
 > - [Animes Online](https://github.com/liara987/animes-online-angular): This is a recent one, is a Angular page to watch anime, I learned some new things and is really exciting, I would like to add more features and improvements, while I grown my skills.
+> 
+> - [Crypto Index](https://github.com/liara987/desafio-trybe): This one is a small project but it was the first time I created something by myself, it was really challenging at the time, and I was really happy that I did.
 
 ## 🖥️ Technologies I'm used to
 
