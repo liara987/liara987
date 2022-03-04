@@ -6,9 +6,9 @@
 </div>
 
 ## 😁 About me
-> Hi, I'm a Software Engineer at [UOL](https://www.uol.com.br), I work as a front-end web developer, right now I use JavaScript on daily basis, but I worked with Typescript and Angular on past projects, and I really love those technologies.
+> **Hi, I'm a Software Engineer at [UOL](https://www.uol.com.br), I work as a front-end web developer, right now I use JavaScript on daily basis, but I worked with Typescript and Angular on past projects, and I really love those technologies.**
 > 
-> Also, I'm really nerd, love to play games and watch Anime, and I'm a YouTuber, on my channel I like to talk about technology and teach some cool things I learn. 😊
+> **Also, I'm really nerd, love to play games and watch Anime, and I'm a YouTuber, on my channel I like to talk about technology and teach some cool things I learn.** 😊
  
 ## 🚀 Projects I'm proud of
 
