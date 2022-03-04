@@ -18,15 +18,15 @@
 
 ## 🖥️ Technologies I'm used to
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](./icons/technologies/angular.svg)
+![Typescript](./icons/technologies/typescript.svg)
+![HTML](./icons/technologies/html.svg)
+![SASS](./icons/technologies/sass.svg)
+![React](./icons/technologies/react.svg)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liara987&theme=blue-green)
 
-## 🗣️ Contact me  
-[![Youtube URL](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/in/liara-programadora)
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/c/LiaraProgramadora?sub_confirmation=1)
-[![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liaraprogramadora/)
+## 🗣️ Contact me
+[![Youtube URL](./icons/social%20media/youtube.svg)](https://www.youtube.com/c/LiaraProgramadora?sub_confirmation=1)
+[![LinkedIn URL](./icons/social%20media/linkedin.svg)](https://www.linkedin.com/in/liara-programadora)
+[![Instagram URL](./icons/social%20media/instagram.svg)](https://www.instagram.com/liaraprogramadora/)
