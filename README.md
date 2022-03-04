@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF welcome](https://pa1.narvii.com/6077/d329bf6e008e02fe4add9b79c01450e640719006_hq.gif)
+![GIF welcome](./yui.gif)
 </div>
 
 ## 😁 About me
