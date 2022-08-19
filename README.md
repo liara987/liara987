@@ -6,7 +6,7 @@
 </div>
 
 ## 😁 About me
-Hi, I'm a Software Engineer at [UOL](https://sobreuol.noticias.uol.com.br/en/our-history/).
+I'm a Software Engineer at [UOL](https://sobreuol.noticias.uol.com.br/en/our-history/).
 I focus on web technologies such as JavaScript and front-end frameworks, I have projects using Angular and React, I really love those technologies, and like to learn new things.
  
 Also, I love to play games and watch Anime, on my free time some times I like to record videos to my youtube channel, where I talk about technology and some cool things I learn. 😊
