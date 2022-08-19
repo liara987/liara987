@@ -16,8 +16,8 @@ Also, I love to play games and watch Anime, on my free time some times I like to
 ![React](./icons/technologies/react.svg)
 ![Angular](./icons/technologies/angular.svg)
 ![Typescript](./icons/technologies/typescript.svg)
-![HTML](./icons/technologies/html.svg)
 ![SASS](./icons/technologies/sass.svg)
+![HTML](./icons/technologies/html.svg)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liara987&theme=blue-green)
 
