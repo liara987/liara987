@@ -24,6 +24,6 @@ I focus on web technologies such as JavaScript and front-end frameworks, I have 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liara987&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🗣️ Contact me
+## ⤵️ Find me here 
 [![Youtube URL](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/LiaraProgramadora?sub_confirmation=1)
 [![LinkedIn URL](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liara-programadora)
