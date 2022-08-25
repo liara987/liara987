@@ -4,20 +4,25 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 🤩 Hi I'm Liara
 
+# 🤩 Hi I'm Liara, working as Software Engineer at [UOL](https://sobreuol.noticias.uol.com.br/en/our-history/)
 <div align="center">
 
 ![GIF welcome](./yui.gif)
 </div>
 
 ## 😁 About me
-I'm a Software Engineer at [UOL](https://sobreuol.noticias.uol.com.br/en/our-history/).
-I focus on web technologies such as JavaScript and front-end frameworks, I have projects using Angular and React, I really love those technologies, and like to learn new things.
- 
-Also, I love to play games and watch Anime, on my free time some times I like to record videos to my youtube channel, where I talk about technology and some cool things I learn. 😊
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liara987&theme=blue-green)
+I focus on web technologies such as JavaScript and front-end frameworks, I have projects using Angular and React, I really love those technologies, and like to try new things as well.
+
+- 🔭 I’m currently working on growing my [youtube channel](https://www.youtube.com/c/LiaraProgramadora)  
+
+- ❓ Fun fact: My first job was selling popcicle on the streets
+  
+
+- 🎮 Hobby: I like to play some games for fun and watch anime  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liara987&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🗣️ Contact me
 [![Youtube URL](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/LiaraProgramadora?sub_confirmation=1)
