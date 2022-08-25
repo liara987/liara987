@@ -15,7 +15,7 @@
 
 I focus on web technologies such as JavaScript and front-end frameworks, I have projects using Angular and React, I really love those technologies, and like to try new things as well.
 
-- 🔭 I’m currently working on growing my [youtube channel](https://www.youtube.com/c/LiaraProgramadora)  
+- 🏋️‍♀️ I’m currently working on growing my [youtube channel](https://www.youtube.com/c/LiaraProgramadora)  
 
 - ❓ Fun fact: My first job was selling popcicle on the streets
   
