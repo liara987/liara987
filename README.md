@@ -13,14 +13,16 @@
 
 ## 😁 About me
 
-I focus on web technologies such as JavaScript and front-end frameworks, I have projects using Angular and React, I really love those technologies, and like to try new things as well.
+I'm Liara, I graduated in 2019, with just a degree in hand and a lot of strengh I started my journey in the job market in the middle of the pandemic, today I work as a Software Engineer, and my focus is on the javascript eco system, I made some projects using Node, React and Angular. As a personal project, I created a YouTube channel, where I talk about technology, the job market and things I learn along the way.
 
-- 🏋️‍♀️ I’m currently working on growing my [youtube channel](https://www.youtube.com/c/LiaraProgramadora)  
+### 👓 Features
+- I am a very curious person, I like to research and discover new things.
+- A fun fact, my first job was a popsicle saleswoman when I was 16 years old.
+- I have a lot of empathy and I like to help others
 
-- ❓ Fun fact: My first job was selling popcicle on the streets
-  
-
-- 🎮 Hobby: I like to play some games for fun and watch anime  
+### 🎮 Hobbies
+- I like watching anime and playing video games
+- Chat with friends and discover new places
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liara987&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
