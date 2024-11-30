@@ -16,9 +16,11 @@
 ### 😁 About Me
 Hi, I'm Liara! I graduated in 2019 and started my journey as a developer during the challenging times of the pandemic. Today, I'm focusing on the JavaScript ecosystem. I've built projects using Vue, React, Angular and Node. Beyond work, I run a YouTube channel where I share insights about technology and everything I learn along the way.
 
-I'm curious and passionate for discovering new ideas and exploring innovative technologies.
-Fun Fact: My journey began at 16 with my first job selling popsicles!
-I enjoy immersing myself in anime and video games, as well as spending time with friends and exploring exciting new places.
+- I'm curious and passionate for discovering new ideas and exploring innovative technologies.
+
+- Fun Fact: My journey began at 16 with my first job selling popsicles!
+
+- I enjoy immersing myself in anime and video games, as well as spending time with friends and exploring exciting new places.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liara987&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
