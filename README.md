@@ -19,7 +19,7 @@
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 
 ### 😁 About Me
-Hi, I'm Liara! I graduated in 2019 and started my journey as a developer during the challenging times of the pandemic. Today, I'm focusing on the JavaScript ecosystem. I've built projects using Vue, React, Angular and Node. Beyond work, I run a YouTube channel where I share insights about technology and everything I learn along the way.
+Hi, I'm Liara! I graduated in 2019 and started my journey as a developer during the challenging times of the pandemic. Today, I'm focusing on the JavaScript ecosystem. I've built projects using React, Angular, Vue and Node. Beyond work, I run a YouTube channel where I share insights about technology and everything I learn along the way.
 
 - I'm curious and passionate for discovering new ideas and exploring innovative technologies.
 
