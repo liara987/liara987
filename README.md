@@ -20,6 +20,11 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 
+### Banco de dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
+
 ### 😁 About Me
 Hi, I'm Liara! I graduated in 2019 and started my journey as a developer during the challenging times of the pandemic. Today, I'm focusing on the JavaScript ecosystem. I've built projects using React, Angular, Vue and Node. Beyond work, I run a YouTube channel where I share insights about technology and everything I learn along the way.
 
