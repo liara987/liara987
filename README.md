@@ -27,7 +27,11 @@
 ### Cloud
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- 
+
+ ### Tools
+ ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+ ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 😁 About Me
 Hi, I'm Liara! I graduated in 2019 and started my journey as a developer during the challenging times of the pandemic. Today, I'm focusing on the JavaScript ecosystem. I've built projects using React, Angular, Vue and Node. Beyond work, I run a YouTube channel where I share insights about technology and everything I learn along the way.
